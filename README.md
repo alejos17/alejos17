@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a skilled software developer with a <br>focus on testing and quality assurance. <br>My expertise includes working with a <br>variety of testing tools such as <br>Screenplay, Karate, RestAssured, and more. <br>I am committed to ensuring the highest <br>level of software quality by implementing <br>comprehensive and automated testing <br>strategies. I enjoy collaborating with <br>cross-functional teams to identify and <br>resolve defects and to continuously <br>improve software performance. <br>If you're looking for a dedicated software <br>developer with experience in testing <br>and a passion for delivering top-notch <br>quality software, please feel free to <br>reach out to me.
+I'm a skilled software developer with a <br>focus on testing and quality assurance. My expertise includes working with a variety of testing tools such as Screenplay, Karate, RestAssured, and more. I am committed to ensuring the highest level of software quality by implementing comprehensive and automated testing strategies. I enjoy collaborating with cross-functional teams to identify and resolve defects and to continuously improve software performance. If you're looking for a dedicated software developer with experience in testing and a passion for delivering top-notch quality software, please feel free to reach out to me.
+
+Status:
+--> Working on Choucair Testing
+--> QA - Testing Software
 
 
 ## 🌐 Socials:
